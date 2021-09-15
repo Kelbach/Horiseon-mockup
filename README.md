@@ -1,4 +1,4 @@
-# week1submission
+# Horiseon Mockup
 
 ## Description
 * This repo contains an index.html file and asset files for a Horiseon website. 
